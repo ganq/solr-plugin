@@ -17,7 +17,7 @@ import org.apache.lucene.util.BytesRef;
  * <pre>
  * Author     Version       Date        Changes
  * ganq    1.0           2014年8月7日     Created
- *
+ *自定义similarity
  * </pre>
  */
 
